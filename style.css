@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: inherit;
+  padding: 10px;
+  margin: 40px;
+  background-image:url(Cosmos.jpg)
+}
+
+h1 {
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  font-size: 20px;
+  background-color: grey;
+  border-color: white;
+  border-style: solid;
+  border-radius: 15px;
+}
+
+img {
+  width: 500px;
+  text-align: center;
+}
+
+a {
+  border-style: solid;
+  border-color: white;
+  border-radius: 15px;
+  padding: 9px;
+  text-decoration: none;
+  font-family: verdana;
+  background-color: #d4d4d4;
+}
